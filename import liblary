@@ -5,4 +5,4 @@ library
 ・git
 ・numpy
 ・opencv (rapiならちょっと変わってた)
-・
+・django==1.11.1
