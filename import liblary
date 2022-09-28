@@ -7,3 +7,5 @@ library
 ・opencv (rapiならちょっと変わってた)
 ・django==4.1
 ・pillow
+・scikit-learn
+・keras
