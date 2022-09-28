@@ -9,3 +9,5 @@ library
 ・pillow
 ・scikit-learn
 ・keras
+install keras==2.6
+tensorflowと互換性が無いとエラーをはく
